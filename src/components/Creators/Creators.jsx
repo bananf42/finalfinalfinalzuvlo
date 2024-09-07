@@ -6,10 +6,10 @@ const Creators = () => {
   const creators = [
     {
       creator_img:
-        "https://fans.nyc3.cdn.digitaloceanspaces.com/photos/dbhwu-img_3865%20(2).jpg",
-      creator_name: "Siswet",
+        "https://fans.nyc3.cdn.digitaloceanspaces.com/photos/crazywifeslut.png",
+      creator_name: "CrazyWifeSlut",
       creator_role: "Zuvlo Creator",
-      followers: "432k followers",
+      followers: "56k followers",
     },
     {
       creator_img:
@@ -20,10 +20,10 @@ const Creators = () => {
     },
     {
       creator_img:
-        "https://fans.nyc3.cdn.digitaloceanspaces.com/photos/crazywifeslut.png",
-      creator_name: "CrazyWifeSlut",
+        "https://fans.nyc3.cdn.digitaloceanspaces.com/photos/dbhwu-img_3865%20(2).jpg",
+      creator_name: "Siswet",
       creator_role: "Zuvlo Creator",
-      followers: "56k followers",
+      followers: "432k followers",
     },
     {
       creator_img:
