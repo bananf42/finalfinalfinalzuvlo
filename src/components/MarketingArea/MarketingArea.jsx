@@ -117,8 +117,7 @@ const MarketingArea = () => {
 
           <p className="mx-auto max-w-[412px] pb-5 text-[18px] leading-7 text-[#4F340A] xl:pb-[55px]">
             {" "}
-            Sign-up now and get 100% payouts for your first 3 months
-            funnel{" "}
+            Sign up now and get 100% payouts for your first 3 months{" "}
           </p>
 
           <SignUpBtn size="mx" />
