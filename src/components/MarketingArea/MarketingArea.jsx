@@ -37,7 +37,7 @@ const MarketingArea = () => {
               }}
               className={subtitleStyles}
             >
-              We offer you with the highest payouts and the best features in order for you to succeed{" "}
+              We provide you with the highest payouts and the best features in order for you to succeed{" "}
             </p>
           </div>
 
