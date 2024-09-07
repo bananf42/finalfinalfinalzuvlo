@@ -65,7 +65,7 @@ const FeatureDetails = () => {
               </p>
               <a className={featureBtn} href="https://zuvlo.com/auth/register">
                 {" "}
-                Sign Up
+                Become a Creator
               </a>
             </div>
             <div ref={elem2} className={featureHolder}>
@@ -79,7 +79,7 @@ const FeatureDetails = () => {
               </p>
               <a className={featureBtn} href="https://zuvlo.com/auth/register">
                 {" "}
-                Sign Up
+                Become a Creator
               </a>
             </div>
             <div ref={elem3} className={featureHolder}>
@@ -93,7 +93,7 @@ const FeatureDetails = () => {
               </p>
               <a className={featureBtn} href="https://zuvlo.com/auth/register">
                 {" "}
-                Sign Up
+                Become a Creator
               </a>
             </div>
           </div>
