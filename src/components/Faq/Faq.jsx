@@ -52,7 +52,7 @@ const Faq = () => {
           Frequently asked questions{" "}
         </h3>
         <p className="leading-7 text-[#667085] xl:text-[18px]">
-          Everything you need to know about the product and billing.
+          Everything you need to know about Zuvlo
         </p>
       </div>
       {/* faq wrapper */}
