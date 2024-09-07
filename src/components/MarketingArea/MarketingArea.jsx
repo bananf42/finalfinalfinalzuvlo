@@ -15,7 +15,7 @@ const MarketingArea = () => {
     <section className="container mt-[50px] pb-14 xl:pb-[150px]">
       <h3 className="mx-auto max-w-[1020px] pb-14 text-center text-[32px] font-semibold leading-[48px] xl:text-[44px] xl:leading-[56px] xlg:pb-[90px] xlg:text-[55px] xlg:leading-[67px]">
         {" "}
-        Master Online Marketing with Ease and Independence, Completely Free{" "}
+        A platform made by creators, for creators{" "}
       </h3>
 
       {/* content wrapper */}
@@ -37,7 +37,7 @@ const MarketingArea = () => {
               }}
               className={subtitleStyles}
             >
-              Where marketers and recruiters exchange insights on a daily basis{" "}
+              We offer you with the highest payouts and the best features in order for you to succeed{" "}
             </p>
           </div>
 
@@ -54,7 +54,7 @@ const MarketingArea = () => {
               }}
               className={titleStyles}
             >
-              Simple & easy to get <span className="text-pinkRed">started</span>{" "}
+              Ready to get a <span className="text-pinkRed">sign-up bonus?</span>{" "}
             </h4>
 
             <p
@@ -63,11 +63,11 @@ const MarketingArea = () => {
               }}
               className={subtitleStyles}
             >
-              The popular 60-minute mobile funnel crash course, moderated live
+              You may be entitled to a sign-up bonus ranging from $100 - $10.000
             </p>
           </div>
 
-          <a href="#" className="mx-auto flex w-fit items-center gap-4">
+          <a href="https://zuvlo.com/contact" className="mx-auto flex w-fit items-center gap-4">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="16"
@@ -96,7 +96,7 @@ const MarketingArea = () => {
             </svg>
 
             <span className="text-[20px] font-medium leading-8 text-[#2A3062]">
-              Learn more
+              Contact us
             </span>
           </a>
 

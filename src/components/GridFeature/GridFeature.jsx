@@ -22,7 +22,7 @@ const GridFeature = () => {
         <div className="flex flex-col gap-4 lg:grid lg:grid-cols-12 lg:gap-5 xl:gap-8">
           {/* first */}
           <div className="single-content bg-[#F9BDB5] p-4 sm:flex sm:flex-col sm:items-center lg:col-span-4 lg:block xl:p-9">
-            <CommonTitle color="#292929">AI Features</CommonTitle>
+            <CommonTitle color="#292929">Your own store</CommonTitle>
 
             {/* img wrapper */}
             <div className="my-2 xl:my-6">
@@ -37,8 +37,7 @@ const GridFeature = () => {
 
             {/* subtitle */}
             <CommonSubTItle color="#52225E">
-              Use a pre-designed template or personalize with video, stickers,
-              fonts, and more
+              Create your own personal store and sell both physical and digital items to your fans
             </CommonSubTItle>
           </div>
 
@@ -50,8 +49,7 @@ const GridFeature = () => {
                 <CommonTitle color=" #131313">24/7 Support</CommonTitle>
 
                 <CommonSubTItle color=" #131313">
-                  Schedule all your cards and gifts now and we’ll send them
-                  later
+                  Our team is ready to help you with all your needs 24/7
                 </CommonSubTItle>
               </div>
 
@@ -80,16 +78,16 @@ const GridFeature = () => {
                   <CommonTitle color="#FFF">Subscriptions</CommonTitle>
 
                   <CommonSubTItle color="#FFF">
-                    Access all your gifts and save up your Givingli Cash
+                    Lock your content behind a paywall for your fans to subscribe to
                   </CommonSubTItle>
                 </div>
               </div>
               <div className="single-content relative flex-1 bg-[#FF2919] px-8 pt-6">
                 <div className="mb-28 space-y-4 xl:mb-0">
-                  <CommonTitle color="#FFF">Smart Messaging</CommonTitle>
+                  <CommonTitle color="#FFF">Paid Calls</CommonTitle>
 
                   <CommonSubTItle color="#FFF">
-                    Track your gifts, group chats, and sent cards
+                    Offer paid video calls to your fans without having to leave our platform
                   </CommonSubTItle>
                 </div>
 
@@ -113,7 +111,7 @@ const GridFeature = () => {
               <CommonTitle color="#FFFFFF">Pay-to-View</CommonTitle>
 
               <CommonSubTItle color="#FFFFFF">
-                Send as a group with friends or individually
+                Sell exclusive pay-to-view content on your feed or directly in your DM's
               </CommonSubTItle>
             </div>
             {/* images */}
@@ -127,10 +125,10 @@ const GridFeature = () => {
           </div>
           <div className="single-content relative bg-[#F94F64] p-8 lg:col-span-5 xl:col-span-4 xl:p-10">
             <div className="mb-24 space-y-4 xl:mb-0">
-              <CommonTitle color="#000000">Advanced Insights</CommonTitle>
+              <CommonTitle color="#000000">Auto-sharing</CommonTitle>
 
               <CommonSubTItle color="#000000">
-                Never miss a birthday or special occasion again
+                Get more fans by sharing your content automatically to X
               </CommonSubTItle>
             </div>
 
