@@ -84,7 +84,7 @@ const GridFeature = () => {
               </div>
               <div className="single-content relative flex-1 bg-[#FF2919] px-8 pt-6">
                 <div className="mb-28 space-y-4 xl:mb-0">
-                  <CommonTitle color="#FFF">Paid Calls</CommonTitle>
+                  <CommonTitle color="#FFF">Paid Video Calls</CommonTitle>
 
                   <CommonSubTItle color="#FFF">
                     Offer paid video calls to your fans without having to leave our platform
