@@ -71,7 +71,7 @@ const HeroBanner = () => {
       onMouseLeave={handleMouseLeave}
     >
       {/* text area starts */}
-      <div className="pb-0 xl:max-w-[60%] xl:pb-[250px] xlg:max-w-[70%] xlg:pb-[300px]">
+      <div className="pb-0 xl:max-w-[60%] xl:pb-[250px] xlg:max-w-[70%] xlg:pb-[300px] relative z-[100]">
         <h3 className="text-[32px] font-bold leading-[48px] text-black xl:text-[56px] xl:leading-[76px] xlg:text-[80px] xlg:leading-[100px]">
           Highest payouts in the industry - 91%
         </h3>
